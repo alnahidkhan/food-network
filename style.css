@@ -21,3 +21,24 @@ h1{ font-size: 50px;}
 .new-text{
     text-align: center;
 }
+.column{
+    float: left;
+    padding: 20px 50px;
+    text-align: center;
+    width: 80%;
+    height: 90%;
+    display: block;
+}
+.card{
+    
+    padding: 40px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+    box-shadow: rgb(131, 135, 138);
+    border-radius: 5%;
+   
+}
+.gandu{
+    width: 100%;
+    padding-right:40% ;
+}
